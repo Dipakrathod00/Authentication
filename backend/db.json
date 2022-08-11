@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "bharat",
+      "email": "bharat@gmail.com",
+      "password": "123",
+      "conform_password": "123",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "conform_password": "123",
+      "admin": true,
+      "id": 3
+    },
+    {
+      "name": "Amol",
+      "email": "amolpounikar100@gmail.com",
+      "password": "2611",
+      "conform_password": "2611",
+      "admin": true,
+      "id": 4
+    }
+  ]
+}
